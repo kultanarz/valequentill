@@ -40,7 +40,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/kultanarz/valequentill
+git clone https://github.com/kultanarz/valequentill.git
 cd valequentill/
 npm i requests
 npm i https-proxy-agent
@@ -59,6 +59,5 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
-python3 c2.py
 ```
 
