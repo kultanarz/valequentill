@@ -1,3 +1,14 @@
+CentOS:
+yum install git -y
+yum install golang -y
+yum install perl -y
+yum install python2 -y
+yum install python3 -y
+yum install python3-pip -y
+yum install nodejs -y
+yum install npm -y
+
+Debain, Ubuntu:
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
